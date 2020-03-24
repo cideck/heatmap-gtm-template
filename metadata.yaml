@@ -1,0 +1,5 @@
+homepage: "https://heatmap.com"
+documentation: "https://heatmap.com/docs/tech/installation"
+versions:
+  - sha: 639dbd482d499e7d3c0718a999c5e57051644063
+    changeNotes: Initial release.
